@@ -1,0 +1,9 @@
+{
+    "owner": "Server owner",
+    "host": "Sever ip",
+    "port": "Server pot",
+    "botOwners": ["Owner", "Owner"],
+    "alts": [
+		"Alt"
+    ]
+}
